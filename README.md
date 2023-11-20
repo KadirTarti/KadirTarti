@@ -1,5 +1,5 @@
 ### Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  I'm Harvey Watson, Front-End Developer :computer: 
+  I'm A.kadir, Front-End Developer :computer: 
   </br>
   <div>
   <a href="https://harveycw.netlify.app/" target="_blank">
@@ -11,9 +11,9 @@
  </p>
 </br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=HarveyCla&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarveyCla&hide=TeX&layout=compact) </br>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=HarveyCla.HarveyCla)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=KadirTarti&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KadirTarti&hide=TeX&layout=compact) </br>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=KadirTarti.KadirTarti)
 
 ## Skills
 
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 
 
-##   :snowboarder: :man-bowing: :wave::skin-tone-2: Hi there, I am A.kadir
+##  Hi there, I am A.kadir
 <img src="https://github-readme-stats.vercel.app/api?username=KadirTarti&show_icons=true&theme=tokyonight" alt="" align="right" width="380"/>
 <font color="pink"> :snowboarder: I'm React & React Native Developer</font>
 </br>
