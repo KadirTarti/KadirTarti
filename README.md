@@ -73,7 +73,7 @@
   Project Name       |Libraries and Technologies I use     |How does my project look
 :-------------------------|-------------------------|-------------------------
 
-[Netflix Survey Form](https://kadirtarti.github.io/netflix-survey-form/)%7C React, Local Storage, React Hooks, Axios |
+Netflix-Survey-Form |HTML-CSS                       | [Check it out!](https://kadirtarti.github.io/netflix-survey-form/)
 
 </div>
 </br>
