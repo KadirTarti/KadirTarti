@@ -72,8 +72,8 @@
   Project Name       |Libraries and Technologies I use     |How does my project look
 :-------------------------|-------------------------|-------------------------
 
-Netflix-Survey-Form |HTML-CSS                       | [Check it out!](https://kadirtarti.github.io/netflix-survey-form/)
-
+Netflix-Survey-Form   |    HTML-CSS                  | [Check it out!](https://kadirtarti.github.io/netflix-survey-form/)
+Login-Screen          |    HTML-CSS                  | [Check it out!](https://kadirtarti.github.io/Live-Login_Screen/)
 </div>
 </br>
 <br>
