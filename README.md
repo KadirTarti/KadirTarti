@@ -69,11 +69,13 @@
 
 
 ## My projects
-  Project Name       |Libraries and Technologies I use     |How does my project look
-:-------------------------|-------------------------|-------------------------
+  Project Name     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Libraries and Technologies I use | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; How does my project look
+:-----------------------|---------------------------------|-------------------------
 
-Netflix-Survey-Form   |    HTML-CSS                  | [Check it out!](https://kadirtarti.github.io/netflix-survey-form/)  <br>
-Login-Screen          |    HTML-CSS                  | [Check it out!](https://kadirtarti.github.io/Live-Login_Screen/)  <br>
+ &nbsp; &nbsp; Netflix-Survey-Form   &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; |   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  HTML-CSS    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Check it out!](https://kadirtarti.github.io/netflix-survey-form/)  <br>
+ &nbsp; &nbsp; Login-Screen  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; HTML-CSS &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Check it out!](https://kadirtarti.github.io/Live-Login_Screen/)  <br>
+
+  
 </div>
 </br>
 <br>
