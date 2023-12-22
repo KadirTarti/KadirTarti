@@ -18,7 +18,7 @@
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:KadirTa@clarusway.com)
   </br>
   <div>
-  <a href="https://harveycw.netlify.app/" target="_blank">
+  <a href="https://harveycw.netlify.app/" target="_blank"> 
 <kbd> <br> Personal Website <br> </kbd>
   </a>
   </div> 
@@ -28,7 +28,6 @@
 </br>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=KadirTarti&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KadirTarti&hide=TeX&layout=compact) </br>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=KadirTarti.KadirTarti)
 
 </br>
