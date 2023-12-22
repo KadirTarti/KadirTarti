@@ -1,14 +1,14 @@
 ##  Hi there, I am A.kadir
 <img src="https://github-readme-stats.vercel.app/api?username=KadirTarti&show_icons=true&theme=tokyonight" alt="" align="right" width="380"/>
-<font color="pink"> :snowboarder: I'm React & React Native Developer</font>
+<font color="pink"> :snowboarder: I'm just a student, who learn still development </font>
 </br>
-<font color="pink"> :man-bowing: I quit my job to be a developer.</font>
+<font color="pink"> :man-bowing: I start just to learn and it goes good.</font>
 </br>
-<font color="pink"> :male-technologist: Nowadays I am learning iOS Development.</font>
+<font color="pink"> :male-technologist: Nowadays I am learning Javascript.</font>
 </br>
-<font color="pink"> :fire: My developer career started in 2020, and it goes on...</font>
+<font color="pink"> :fire: My developer career will start in 2024...</font>
 <br>
-<font color="pink"> :rocket: Currently, I am focusing on React, Javascript, SASS, Bootstrap...</font>
+<font color="pink"> :rocket: Currently, I will focus on React, Javascript, SASS and Bootstrap...</font>
 
 <br></br>
 ![](https://komarev.com/ghpvc/?username=KadirTarti&color=green&style=for-the-badge)
