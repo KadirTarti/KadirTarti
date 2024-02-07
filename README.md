@@ -18,7 +18,7 @@
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:KadirTa@clarusway.com)
   </br>
   <div>
-  <a href="https://harveycw.netlify.app/" target="_blank"> 
+  <a href="https://www.xing.com/profile/AKadir_Tartilaci/web_profiles" target="_blank"> 
 <kbd> <br> Personal Website <br> </kbd>
   </a>
   </div> 
