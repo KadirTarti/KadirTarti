@@ -1,4 +1,4 @@
-##  Hi there, I am Abdulkadir T.
+##  ![14101230](https://github.com/KadirTarti/KadirTarti/assets/150926891/fbc272cf-d675-45cf-8017-ac6d72bfaf11)   there,  I am Abdulkadir T.
 <img src="https://github-readme-stats.vercel.app/api?username=KadirTarti&show_icons=true&theme=tokyonight" alt="" align="right" width="380"/>
 <font color="pink"> :snowboarder: I'm just a student, who learn still development </font>
 </br>
@@ -14,7 +14,7 @@
 ![](https://komarev.com/ghpvc/?username=KadirTarti&color=green&style=for-the-badge)
 #### :mailbox_with_mail: Connect with me:
 
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harveyy/)
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadirtart/)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:KadirTa@clarusway.com)
   </br>
   <div>
@@ -96,10 +96,7 @@ Login-Screen  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb
 <div  align="center">
 <br/>
      
-<img
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarveyCla&langs_count=8"
-     alt="" width="350"
-     /> <br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarveyCla&langs_count=8" alt="" width="350"/> <br/>
 
 
 
