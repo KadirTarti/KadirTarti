@@ -1,4 +1,4 @@
-##  ![14101230](https://github.com/KadirTarti/KadirTarti/assets/150926891/fbc272cf-d675-45cf-8017-ac6d72bfaf11)   there,  I am Abdulkadir T.
+##  Hi there,  I am Abdulkadir Tatilaci.
 <img src="https://github-readme-stats.vercel.app/api?username=KadirTarti&show_icons=true&theme=tokyonight" alt="" align="right" width="380"/>
 <font color="pink"> :snowboarder: For now i'm a student, who learn still development </font>
 </br>
