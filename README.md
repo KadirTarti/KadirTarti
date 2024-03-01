@@ -103,8 +103,7 @@ Login-Screen  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb
 <div  align="center">
 <br/>
      
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarveyCla&langs_count=8" alt="" width="350"/> <br/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KadirTarti&theme=chartreuse-dark&layout=compact" alt="languages" width="35%">
 
 
 <!--
