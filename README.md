@@ -27,8 +27,10 @@
  </p>
 </br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=KadirTarti&count_private=true&show_icons=true&include_all_commits=true)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=KadirTarti.KadirTarti)
+</br>
+<!--![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=KadirTarti.KadirTarti)
+ ![Github Stats](https://github-readme-stats.vercel.app/api?username=KadirTarti&count_private=true&show_icons=true&include_all_commits=true) -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KadirTarti&theme=chartreuse-dark" alt="my commit status" width="40%"/>
 
 </br>
 
@@ -69,9 +71,9 @@
 
 
 ## My projects
- <br>&nbsp; &nbsp; Project Name     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Libraries and Technologies I use | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; How does my project look
-:-----------------------|---------------------------------|-------------------------
-The Best Movies of Recent Times &nbsp; &nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; | HTML<br>CSS<br>Javascript<br>React<br>Responsive<br>   [Check it out!](https://horoscopewebsite.netlify.app/) &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  ![bestmoviesofrecenttime (1)](https://github.com/KadirTarti/KadirTarti/assets/150926891/5189db9e-5d08-4da2-b257-159ab3c82275) <br>
+ <br>&nbsp; &nbsp; Project Name     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Libraries and Technologies I use | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; How does my project look : | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Source Code
+:-----------------------|---------------------------------|-------------------------|-------------------------
+The Best Movies of Recent Times &nbsp; &nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; | HTML<br>CSS<br>Javascript<br>React<br>Responsive<br>   [Check it out!](https://horoscopewebsite.netlify.app/) &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  ![bestmoviesofrecenttime (1)](https://github.com/KadirTarti/KadirTarti/assets/150926891/5189db9e-5d08-4da2-b257-159ab3c82275) | xxxxxxxxx <br>
 Horoscope Website &nbsp; &nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; | HTML<br>CSS<br>Javascript<br>SASS<br>React<br>Responsive<br>   [Check it out!](https://horoscopewebsite.netlify.app/) &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  ![horoscope-web-site-ezgif com-optimize](https://github.com/KadirTarti/KadirTarti/assets/150926891/37332d52-3033-4fc2-9823-cabaa879380c) <br>
 Weather-App &nbsp; &nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; | HTML<br>CSS<br>Javascript<br>   [Check it out!](https://check-app-weather.netlify.app) &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   ![WeatherApp](https://github.com/KadirTarti/KadirTarti/assets/150926891/b151d6da-0f53-4cb0-85f7-b4d99b784897)<br>
 To Do List &nbsp; &nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; | HTML<br>CSS<br>Javascript<br>Local Storage<br>Responsive<br>   [Check it out!](https://to-do-list-2024.netlify.app) &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  ![toDoList](https://github.com/KadirTarti/KadirTarti/assets/150926891/49e8b3a5-1c7d-45e4-8ca5-bdcd8cbca0a0) <br>
