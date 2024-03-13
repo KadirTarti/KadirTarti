@@ -1,12 +1,12 @@
 ##  Hi there,  I am Abdulkadir Tatilaci 👋
 <img src="https://github-readme-stats.vercel.app/api?username=KadirTarti&show_icons=true&theme=tokyonight" alt="" align="right" width="380"/>
-<font color="pink"> :snowboarder: For now i'm a student, who learn still development </font>
+<font color="pink"> :snowboarder: I develope still Websites </font>
 </br>
-<font color="pink">  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I start just to learn and it goes good </font>
+<font color="pink">  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ... and it goes good </font>
 </br>
 <font color="pink">  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Nowadays I am learning React 	:atom: </font>
 </br>
-<font color="pink"> :fire: My developer career will start in 2024...</font>
+<font color="pink"> :fire: My developer career started in 2024...</font>
 <br>
 <font color="pink"> :rocket: Currently, I will focus on React, Javascript, SASS and Bootstrap...</font>
 
