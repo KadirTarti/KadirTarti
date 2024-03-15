@@ -12,7 +12,10 @@
 
 <br></br>
 ![](https://komarev.com/ghpvc/?username=KadirTarti&color=green&style=for-the-badge)
+
+<!--
 #### :mailbox_with_mail: Connect with me:
+
 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadirtart/)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:KadirTa@clarusway.com)
@@ -22,12 +25,14 @@
 <kbd> <br> Personal Website <br> </kbd>
   </a>
   </div> 
+
 <p align="center">
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
  </p>
 </br>
 
 </br>
+-->
 <!--![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=KadirTarti.KadirTarti)
  ![Github Stats](https://github-readme-stats.vercel.app/api?username=KadirTarti&count_private=true&show_icons=true&include_all_commits=true) -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=KadirTarti&theme=chartreuse-dark" alt="my commit status" width="40%"/>
