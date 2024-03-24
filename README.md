@@ -1,4 +1,4 @@
-##  Hi there,  I am Abdulkadir Tatilaci 👋
+##  Hi there,  I am Abdulkadir Tartilaci 👋
 <img src="https://github-readme-stats.vercel.app/api?username=KadirTarti&show_icons=true&theme=tokyonight" alt="" align="right" width="380"/>
 <font color="pink"> :snowboarder: I develope still Websites </font>
 </br>
