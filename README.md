@@ -35,7 +35,8 @@
 -->
 <!--![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=KadirTarti.KadirTarti)
  ![Github Stats](https://github-readme-stats.vercel.app/api?username=KadirTarti&count_private=true&show_icons=true&include_all_commits=true) -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KadirTarti&theme=chartreuse-dark" alt="my commit status" width="40%"/>
+
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=KadirTarti&theme=chartreuse-dark" alt="my commit status" width="40%"/> -->
 
 </br>
 
