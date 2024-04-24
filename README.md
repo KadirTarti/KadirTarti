@@ -1,11 +1,6 @@
-##  Hi there,  I am Abdulkadir Tartilaci 👋
-<img src="https://github-readme-stats.vercel.app/api?username=KadirTarti&show_icons=true&theme=tokyonight" alt="" align="right" width="380"/>
-<font color="pink"> :snowboarder: I develope Websites </font>
-</br>
-<!-- <font color="pink">  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ... and it goes good </font>
-</br> -->
+[![ Digitando SVG ](https://readme-typing-svg.herokuapp.com/?color=7fff00&size=30¢er=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Abdulkadir+TARTILACI,+i'm+a+Web-Developer!;I+love+Frontend+and+Backend;If+you+haven't+reviewed+my+projects+yet..;..+you+can+take+a+look+at+the+sample+projects+below...;For+any+questions+or+suggestions+please+contact+me!;)](https://git.io/typing-svg)
 
-<font color="pink">  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Nowadays I am learning React 	:atom: </font>
+<font color="pink"> 💻 Nowadays I am learning React 	⚛️ </font>
 </br>
 <font color="pink"> :fire: My developer career started in 2023...</font>
 <br>
@@ -13,6 +8,8 @@
 
 <br></br>
 ![](https://komarev.com/ghpvc/?username=KadirTarti&color=green&style=for-the-badge)
+
+
 
 <!--
 #### :mailbox_with_mail: Connect with me:
