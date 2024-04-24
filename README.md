@@ -1,14 +1,15 @@
 ##  Hi there,  I am Abdulkadir Tartilaci 👋
 <img src="https://github-readme-stats.vercel.app/api?username=KadirTarti&show_icons=true&theme=tokyonight" alt="" align="right" width="380"/>
-<font color="pink"> :snowboarder: I develope still Websites </font>
+<font color="pink"> :snowboarder: I develope Websites </font>
 </br>
-<font color="pink">  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ... and it goes good </font>
-</br>
+<!-- <font color="pink">  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ... and it goes good </font>
+</br> -->
+
 <font color="pink">  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Nowadays I am learning React 	:atom: </font>
 </br>
-<font color="pink"> :fire: My developer career started in 2024...</font>
+<font color="pink"> :fire: My developer career started in 2023...</font>
 <br>
-<font color="pink"> :rocket: Currently, I will focus on React, Javascript, SASS and Bootstrap...</font>
+<font color="pink"> :rocket: Currently, I will focus on React, JS, MUI and Bootstrap...</font>
 
 <br></br>
 ![](https://komarev.com/ghpvc/?username=KadirTarti&color=green&style=for-the-badge)
