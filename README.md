@@ -1,11 +1,11 @@
+<br></br>
 [![ Digitando SVG ](https://readme-typing-svg.herokuapp.com/?color=7fff00&size=30¢er=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Abdulkadir+TARTILACI,+i'm+a+Web-Developer!;I+love+Frontend+and+Backend+Development;If+you+haven't+reviewed+my+projects+yet..;..+you+can+take+a+look+at+the+sample+projects+below...;For+any+questions+or+suggestions+please+contact+me!;)](https://git.io/typing-svg)
-
+<br></br>
 <font color="pink"> 💻 Nowadays I am learning React 	⚛️ </font>
 </br>
 <font color="pink"> :fire: My developer career started in 2023...</font>
 <br>
 <font color="pink"> :rocket: Currently, I will focus on React, JS, MUI and Bootstrap...</font>
-
 <br></br>
 <!--
 ![](https://komarev.com/ghpvc/?username=KadirTarti&color=green&style=for-the-badge)
@@ -36,9 +36,6 @@
  ![Github Stats](https://github-readme-stats.vercel.app/api?username=KadirTarti&count_private=true&show_icons=true&include_all_commits=true) -->
 
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=KadirTarti&theme=chartreuse-dark" alt="my commit status" width="40%"/> -->
-
-</br>
-
 ## :rocket: Skills
 <p>
 <a href="#" target="_blank"> <img src="https://www.svgrepo.com/show/353884/html-5.svg" alt="html" height="45"/> </a> 
