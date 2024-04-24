@@ -1,7 +1,7 @@
 <br></br>
-[![ Digitando SVG ](https://readme-typing-svg.herokuapp.com/?color=7fff00&size=30¢er=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Abdulkadir+TARTILACI;******+I'm+a+Web-Developer!+******;I+love+Frontend+and+Backend+Development;If+you+haven't+reviewed+my+projects+yet..;..+you+can+take+a+look+at+the+sample+projects+below...;For+any+questions+or+suggestions............................;....+please+contact+me!;)](https://git.io/typing-svg)
+[![ Digitando SVG ](https://readme-typing-svg.herokuapp.com/?color=7fff00&size=30¢er=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Abdulkadir+TARTILACI+🙋‍♂️;******+I'm+a+Web-Developer!+🖥️+******;I+love+Frontend+and+Backend+Development;If+you+haven't+reviewed+my+projects+yet..⏲️;..+✅+you+can+take+a+look+at+the+sample+projects+below...;For+any+questions+or+suggestions+❓+............................;....+📫+please+contact+me!🙂;)](https://git.io/typing-svg)
 <br></br>
-<font color="pink"> 💻 Nowadays I am learning React 	⚛️ </font>
+<font color="pink"> 💻 Nowadays I am learning React 	⚛️ </font> 
 </br>
 <font color="pink"> :fire: My developer career started in 2023...</font>
 <br>
