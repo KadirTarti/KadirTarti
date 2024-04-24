@@ -1,5 +1,5 @@
 <br></br>
-[![ Digitando SVG ](https://readme-typing-svg.herokuapp.com/?color=7fff00&size=30¢er=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Abdulkadir+TARTILACI,+i'm+a+Web-Developer!;I+love+Frontend+and+Backend+Development;If+you+haven't+reviewed+my+projects+yet..;..+you+can+take+a+look+at+the+sample+projects+below...;For+any+questions+or+suggestions+please+contact+me!;)](https://git.io/typing-svg)
+[![ Digitando SVG ](https://readme-typing-svg.herokuapp.com/?color=7fff00&size=30¢er=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Abdulkadir+TARTILACI;******+I'm+a+Web-Developer!+******;I+love+Frontend+and+Backend+Development;If+you+haven't+reviewed+my+projects+yet..;..+you+can+take+a+look+at+the+sample+projects+below...;For+any+questions+or+suggestions............................;....+please+contact+me!;)](https://git.io/typing-svg)
 <br></br>
 <font color="pink"> 💻 Nowadays I am learning React 	⚛️ </font>
 </br>
@@ -12,12 +12,12 @@
 -->
 
 
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-tartilaci/)
+[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:tartilaci@gmail.com)
 <!--
 #### :mailbox_with_mail: Connect with me:
 
 
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadirtart/)
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:KadirTa@clarusway.com)
   </br>
   <div>
   <a href="https://www.xing.com/profile/AKadir_Tartilaci/web_profiles" target="_blank"> 
