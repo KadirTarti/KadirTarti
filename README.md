@@ -7,8 +7,9 @@
 <font color="pink"> :rocket: Currently, I will focus on React, JS, MUI and Bootstrap...</font>
 
 <br></br>
+<!--
 ![](https://komarev.com/ghpvc/?username=KadirTarti&color=green&style=for-the-badge)
-
+-->
 
 
 <!--
