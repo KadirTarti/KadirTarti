@@ -1,4 +1,4 @@
-[![ Digitando SVG ](https://readme-typing-svg.herokuapp.com/?color=7fff00&size=30¢er=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Abdulkadir+TARTILACI,+i'm+a+Web-Developer!;I+love+Frontend+and+Backend;If+you+haven't+reviewed+my+projects+yet..;..+you+can+take+a+look+at+the+sample+projects+below...;For+any+questions+or+suggestions+please+contact+me!;)](https://git.io/typing-svg)
+[![ Digitando SVG ](https://readme-typing-svg.herokuapp.com/?color=7fff00&size=30¢er=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Abdulkadir+TARTILACI,+i'm+a+Web-Developer!;I+love+Frontend+and+Backend+Development;If+you+haven't+reviewed+my+projects+yet..;..+you+can+take+a+look+at+the+sample+projects+below...;For+any+questions+or+suggestions+please+contact+me!;)](https://git.io/typing-svg)
 
 <font color="pink"> 💻 Nowadays I am learning React 	⚛️ </font>
 </br>
