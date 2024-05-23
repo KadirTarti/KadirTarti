@@ -64,6 +64,8 @@
 <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="sass" height="45"/> </a> 
 <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="tailwind" height="45"/> </a> 
 <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" height="40"/> </a>
+-->
+
 <!-- <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/> </a>
 <!-- <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/190887795-99cb0921-e57f-430b-a111-e165deedaa36.png" alt="antDesign" height="45"/> </a>  -->
 <!-- <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="MySQL" height="45"/> </a>  -->
@@ -75,7 +77,6 @@
 <!-- <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" height="35"/> </a> -->
 <!-- <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" height="40"/> </a> -->
 <!-- <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" height="40"/> </a> -->
--->
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools</b>
 <table align="center">
