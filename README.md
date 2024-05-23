@@ -94,17 +94,17 @@
     <img src="https://skillicons.dev/icons?i=js" width="65" height="50" alt="javascript logo"  />
     <br> JavaScript
     </td>
+   <td align="center" width="86">
+    <img src="https://skillicons.dev/icons?i=ts" width="65" height="50" alt="typescript logo"  />
+    <br> TypeScript
+    </td>
     <td align="center" width="86">
     <img src="https://skillicons.dev/icons?i=react" width="65" height="50" alt="react logo"  />
     <br> React
     </td>
-    <td align="center" width="86">
-    <img src="https://skillicons.dev/icons?i=vite" width="65" height="50" alt="react logo"  />
-    <br> Vite
-    </td>
-    <td align="center" width="86">
-    <img src="https://skillicons.dev/icons?i=ts" width="65" height="50" alt="javascript logo"  />
-    <br> TypeScript
+   <td align="center" width="86">
+    <img src="https://skillicons.dev/icons?i=redux" width="65" height="50" alt="redux logo"  />
+    <br> Redux
     </td>
     <td align="center" width="86">
     <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="50" alt="bootstrap logo"  />
@@ -126,8 +126,8 @@
  </tr>
  <tr>
     <td align="center" width="86">
-    <img src="https://skillicons.dev/icons?i=redux" width="65" height="50" alt="redux logo"  />
-    <br> Redux
+    <img src="https://skillicons.dev/icons?i=vite" width="65" height="50" alt="vite logo"  />
+    <br> Vite
     </td>
     <td align="center" width="86">
     <img src="https://skillicons.dev/icons?i=firebase"width="65" height="50" alt="firebase logo"  />
@@ -165,16 +165,6 @@
     <br> NodeJs
     </td>
  </tr>
-   <tr>
-    <td align="center" width="86">
-    <img src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" width="65" height="50" alt="yarn logo"  />
-    <br> Yarn
-    </td>
-      <td align="center" width="86">
-    <img src="" width="65" height="50" alt=""  />
-    <br> 
-    </td>
-   </tr>
 </div>
 </table>
 <br>
