@@ -165,6 +165,12 @@
     <br> NodeJs
     </td>
  </tr>
+   <tr>
+    <td align="center" width="86">
+    <img src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" width="65" height="50" alt="yarn logo"  />
+    <br> Redux
+    </td>
+   </tr>
 </div>
 </table>
 <br>
