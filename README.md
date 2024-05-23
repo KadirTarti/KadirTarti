@@ -36,6 +36,7 @@
  ![Github Stats](https://github-readme-stats.vercel.app/api?username=KadirTarti&count_private=true&show_icons=true&include_all_commits=true) -->
 
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=KadirTarti&theme=chartreuse-dark" alt="my commit status" width="40%"/> -->
+<!--
 ## :rocket: Skills
 <p>
 <a href="#" target="_blank"> <img src="https://www.svgrepo.com/show/353884/html-5.svg" alt="html" height="45"/> </a> 
@@ -74,6 +75,99 @@
 <!-- <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" height="35"/> </a> -->
 <!-- <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" height="40"/> </a> -->
 <!-- <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" height="40"/> </a> -->
+-->
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools</b>
+<table align="center">
+<div align="left" >
+ <tr>
+    <td align="center" width="86">
+    <img src="https://skillicons.dev/icons?i=html" width="65" height="50" alt="html5 logo"  />
+    <br> Html5
+    </td>
+    <td align="center" width="86">
+    <img src="https://skillicons.dev/icons?i=css"width="65" height="50" alt="css3 logo"  />
+    <br> Css3
+    </td>
+    <td align="center" width="86">
+    <img src="https://skillicons.dev/icons?i=js" width="65" height="50" alt="javascript logo"  />
+    <br> JavaScript
+    </td>
+    <td align="center" width="86">
+    <img src="https://skillicons.dev/icons?i=react" width="65" height="50" alt="react logo"  />
+    <br> React
+    </td>
+    <td align="center" width="86">
+    <img src="https://skillicons.dev/icons?i=vite" width="65" height="50" alt="react logo"  />
+    <br> Vite
+    </td>
+    <td align="center" width="86">
+    <img src="https://skillicons.dev/icons?i=ts" width="65" height="50" alt="javascript logo"  />
+    <br> TypeScript
+    </td>
+    <td align="center" width="86">
+    <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="50" alt="bootstrap logo"  />
+    <br> Bootstrap
+    </td>
+    </td>
+    <td align="center" width="86">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="50" alt="bootstrap logo"  />
+    <br> Tailwind
+    </td>
+    <td align="center" width="86">
+    <img src="https://skillicons.dev/icons?i=mui" width="65" height="50" alt="bootstrap logo"  />
+    <br> MUi
+    </td>
+    <td align="center" width="86">
+    <img src="https://skillicons.dev/icons?i=sass" width="65" height="50" alt="bootstrap logo"  />
+    <br> SASS
+    </td>
+ </tr>
+ <tr>
+    <td align="center" width="86">
+    <img src="https://skillicons.dev/icons?i=redux" width="65" height="50" alt="redux logo"  />
+    <br> Redux
+    </td>
+    <td align="center" width="86">
+    <img src="https://skillicons.dev/icons?i=firebase"width="65" height="50" alt="firebase logo"  />
+    <br> FireBase
+    </td>
+    <td align="center" width="86">
+    <img src="https://skillicons.dev/icons?i=jquery"  width="65" height="50" alt="jquery logo"  />
+    <br> JQuery
+    </td>
+    <td align="center" width="86">
+    <img src="https://skillicons.dev/icons?i=git" width="65" height="50" alt="git logo"  />
+    <br> Git
+    </td>
+    <td align="center" width="86">
+    <img src="https://skillicons.dev/icons?i=github" width="65" height="50" alt="github logo"  />
+    <br> GitHub
+    </td>
+    <td align="center" width="86">
+    <img src="https://skillicons.dev/icons?i=postgres"  width="65" height="50" alt="postgresql logo"  />
+    <br> PostgreSQL
+    </td>  
+    <td align="center" width="86">
+    <img src="https://skillicons.dev/icons?i=mongodb"  width="65" height="50" alt="mongodb logo"  />
+    <br> MongoDB
+    </td>
+    <td align="center" width="86">
+    <img src="https://skillicons.dev/icons?i=postman"  width="65" height="50" alt="postman logo"  />
+    <br> PostMan
+    </td>
+    <td align="center" width="86">
+    <img src="https://skillicons.dev/icons?i=figma"  width="65" height="50" alt="figma logo"  />
+    <br> Figma
+    <td align="center" width="86"> 
+    <img src="https://skillicons.dev/icons?i=nodejs"  width="65" height="50" alt="nodejs logo"  />
+    <br> NodeJs
+    </td>
+ </tr>
+</div>
+</table>
+<br>
+</div>
 
 
 
