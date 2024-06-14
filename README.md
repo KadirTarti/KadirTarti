@@ -1,9 +1,9 @@
 <br></br>
 [![ Digitando SVG ](https://readme-typing-svg.herokuapp.com/?color=7fff00&size=30¢er=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Abdulkadir+TARTILACI+🙋‍♂️;******+I'm+a+Web-Developer!+🖥️+******;I+love+Frontend+and+Backend+Development;If+you+haven't+reviewed+my+projects+yet..⏲️;..+✅+you+can+take+a+look+at+the+sample+projects+below...;For+any+questions+or+suggestions+❓+............................;....+📫+please+contact+me!+;)](https://git.io/typing-svg)
 <br></br>
-<font color="pink"> 💻 Hi, i am Kadir!	⚛️ </font> 
+<font color="pink"> 💻 Hi, i am Kadir!	 </font> 
 </br>
-<font color="pink"> :fire: I'm a Fullstack Developer (MERN Stack)...</font>
+<font color="pink"> :fire: I'm a Fullstack Developer (MERN Stack) ⚛️</font>
 <br></br>
 <!--
 ![](https://komarev.com/ghpvc/?username=KadirTarti&color=green&style=for-the-badge)
