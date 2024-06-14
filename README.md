@@ -4,8 +4,6 @@
 <font color="pink"> 💻 Hi, i am Kadir!	⚛️ </font> 
 </br>
 <font color="pink"> :fire: I'm a Fullstack Developer (MERN Stack)...</font>
-<br>
-<font color="pink"> :rocket: Currently, I will focus on React, JS, MUI and Bootstrap...</font>
 <br></br>
 <!--
 ![](https://komarev.com/ghpvc/?username=KadirTarti&color=green&style=for-the-badge)
